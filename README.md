@@ -12,12 +12,10 @@ Version Code: 1
 Minimum Android Version: Android 8.0 (API Level 26)
 
 Screenshots
-<img width="709" height="1600" alt="Crisis support" src="https://github.com/user-attachments/assets/8041dc39-67db-4e3b-9562-125e5a564aa9" />
-<img width="1080" height="2436" alt="Guided breathing" src="https://github.com/user-attachments/assets/6ae32e87-8200-4901-ac9b-fcb8b12a12d1" />
-<img width="1080" height="2335" alt="Home" src="https://github.com/user-attachments/assets/97556563-a791-40f8-8a8f-3d01a5180acc" />
 <img width="1080" height="2436" alt="Logo" src="https://github.com/user-attachments/assets/502a9874-6eba-49c8-abd2-8513dd807213" />
-
-
+<img width="1080" height="2335" alt="Home" src="https://github.com/user-attachments/assets/97556563-a791-40f8-8a8f-3d01a5180acc" />
+<img width="1080" height="2436" alt="Guided breathing" src="https://github.com/user-attachments/assets/6ae32e87-8200-4901-ac9b-fcb8b12a12d1" />
+<img width="709" height="1600" alt="Crisis support" src="https://github.com/user-attachments/assets/8041dc39-67db-4e3b-9562-125e5a564aa9" />
 
 🔒 Privacy Policy
 SereneSpace is built on a privacy-first architecture.
