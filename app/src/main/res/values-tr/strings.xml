@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sakin Alan</string>
+    <string name="home_title">Sakin Alan</string>
+    <string name="home_prompt">Bugün nasılsınız?</string>
+    <string name="note_hint">Not ekle (İsteğe bağlı)</string>
+    <string name="save_mood">Kaydet</string>
+    <string name="mood_saved">Ruh Hali Kaydedildi! ✨</string>
+    <string name="breathing">Nefes Egzersizi</string>
+    <string name="history">Ruh Hali Geçmişi</string>
+    <string name="write_journal">Özel Günlük Yaz 🔒</string>
+    <string name="read_journal">Geçmiş Günlükleri Oku</string>
+    <string name="crisis">Kriz Desteği</string>
+    <string name="happy">Mutlu</string>
+    <string name="neutral">Nötr</string>
+    <string name="sad">Üzgün</string>
+    <string name="anxious">Kaygılı</string>
+    <string name="angry">Kızgın</string>
+    <string name="need_help_title">Biraz yardıma mı ihtiyacınız var? 💙</string>
+    <string name="need_help_body">Mutsuz görünüyorsunuz. Sakinleşmek için nefes egzersizi yapmayı veya dışa vurmak için özel günlüğünüze yazmayı deneyin.</string>
+</resources>

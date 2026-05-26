@@ -1,0 +1,8 @@
+<resources>
+    <string name="crisis_title">Soutien aux crises</string>
+    <string name="crisis_prompt">Si vous êtes en danger immédiat, veuillez demander de laide.</string>
+    <string name="crisis_call">Appeler la ligne durgence (988)</string>
+    <string name="crisis_chat">Ouvrir le chat de crise</string>
+    <string name="crisis_plan_title">Ayez un plan avant quune crise ne se produise.</string>
+    <string name="crisis_plan_button">Construisez votre plan de sécurité</string>
+</resources>

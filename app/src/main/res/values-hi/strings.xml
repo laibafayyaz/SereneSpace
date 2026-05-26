@@ -1,0 +1,8 @@
+<resources>
+    <string name="crisis_title">संकट समर्थन</string>
+    <string name="crisis_prompt">यदि आप तत्काल खतरे में हैं, तो कृपया सहायता लें।</string>
+    <string name="crisis_call">आपातकालीन हेल्पलाइन पर कॉल करें (988)</string>
+    <string name="crisis_chat">संकट चैट खोलें</string>
+    <string name="crisis_plan_title">संकट होने से पहले एक योजना बनाएं।</string>
+    <string name="crisis_plan_button">अपनी सुरक्षा योजना बनाएं</string>
+</resources>
