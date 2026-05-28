@@ -1,29 +1,63 @@
 🌿 SereneSpace: Mental Health Check-in & Support
 A Privacy-First Mental Wellness Mobile Application
 
-📱 App Description
-SereneSpace is a native Android application designed to bridge the gap in accessible, private, and multilingual mental wellness tools. Built for students, working professionals, and non-English-speaking communities, the app offers daily mood tracking, guided breathing exercises, encrypted journaling, and emergency crisis support—all processed and stored locally on the device to ensure maximum privacy.
+About the App
+SereneSpace is a native Android application designed to bridge the gap in accessible, private, and multilingual mental wellness tools. Built for students, working professionals, and underserved non-English-speaking communities, the app offers an integrated suite of wellness tools that place the user's privacy, comfort, and well-being at the forefront.
+It provides daily mood tracking, evidence-based breathing exercises, encrypted journaling, and emergency crisis support—all processed and stored locally on the device. All data is stored 100% offline, ensuring absolute user privacy without requiring expensive subscriptions or internet connectivity.
 
-ℹ️ App Details
-App Name: SereneSpace
-Category: Health & Fitness / Medical
-Version Name: 1.0.0
-Version Code: 1
-Minimum Android Version: Android 8.0 (API Level 26)
+Features
+Daily Mood Check-in: Emoji-based check-ins with optional notes and mood history visualization.
+Guided Breathing Exercises: Animated 4-7-8 breathing technique with dynamic expanding/contracting circle and color changes.
+Private Journal: AES-encrypted entries with mood tagging to ensure absolute privacy.
+Multilingual Interface: Full support for English, Urdu, Turkish, Arabic, and more with automatic RTL layout support.
+Crisis Support Module: One-tap emergency hotlines, crisis chat links, and a guided Safety Plan Builder.
+Smart Mood Suggestions: Provides gentle recommendations (like breathing or journaling) when negative moods are selected.
+In-App Language Switcher: Dynamically change the app language instantly from the Settings screen.
+Dark Mode: Full light/dark theme support for low-light environments.
+Daily Reminders: Customizable push notifications via WorkManager to encourage consistent check-ins.
+100% Offline & Privacy-First: No data collection, no analytics, no servers.
 
-Screenshots
-<img width="1080" height="2436" alt="Logo" src="https://github.com/user-attachments/assets/502a9874-6eba-49c8-abd2-8513dd807213" />
-<img width="1080" height="2335" alt="Home" src="https://github.com/user-attachments/assets/97556563-a791-40f8-8a8f-3d01a5180acc" />
-<img width="1080" height="2436" alt="Guided breathing" src="https://github.com/user-attachments/assets/6ae32e87-8200-4901-ac9b-fcb8b12a12d1" />
-<img width="709" height="1600" alt="Crisis support" src="https://github.com/user-attachments/assets/8041dc39-67db-4e3b-9562-125e5a564aa9" />
+Technologies Used
+Language: Kotlin
+UI Framework: Jetpack Compose (Declarative UI)
+IDE: Android Studio
+Local Database: Room Database (SQLite)
+Architecture: MVVM (Model-View-ViewModel)
+Encryption: Android Keystore + Jetpack Security Crypto (AES)
+Notifications: WorkManager + NotificationManager
+Localization: AppCompat + LanguageManager
+Navigation: Jetpack Navigation Compose
 
-🔒 Privacy Policy
-SereneSpace is built on a privacy-first architecture.
-No Data Collection: We do not collect, transmit, or sell any personal data.
-Local Storage Only: All mood logs, journal entries, and safety plans are stored locally on your device using Room Database.
-Encryption: Private journal entries are secured using AES encryption before being saved.
-No Analytics: We do not track your usage or behavior.
+APK Download
+Download the Latest APK from Releases
 
-🛠️ App Permissions Details
-android.permission.POST_NOTIFICATIONS: Required to send daily mood check-in reminders (Android 13+). The user is explicitly asked for this permission; it is not enabled by default.
-android.permission.INTERNET: Required only for the Crisis Support module to open emergency chat links in the browser. No app data is transmitted over the internet.
+How to Install the APK
+Download the APK file from the link above.
+Open the APK file on an Android mobile phone.
+Allow installation from unknown sources if required.
+Install and run the application.
+
+How to Run the Project
+Clone or download this project.
+Open the project in Android Studio.
+Sync Gradle files.
+Connect an Android device (API 26+) or start an emulator.
+Run the app.
+
+Documentation
+Privacy Policy
+User Manual
+
+Future Enhancements
+iOS Support: Cross-platform porting using Kotlin Multiplatform Mobile (KMM).
+Wearable Integration: Sync with Android Wear OS for passive mood detection.
+Professional Referral Network: Integration with licensed counsellors.
+Community Support Groups: Anonymized peer support forums.
+Biometric Authentication: Fingerprint and face ID lock for the journal module.
+Additional Languages: Expansion to Pashto, Arabic, French, and Spanish.
+
+Developed By
+Laiba Fayyaz
+Roll No: BSITM-A-23-25
+Department: BS IT 6th A (Morning)
+University: University of Layyah
