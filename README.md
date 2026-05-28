@@ -17,7 +17,7 @@ Dark Mode: Full light/dark theme support for low-light environments.
 Daily Reminders: Customizable push notifications via WorkManager to encourage consistent check-ins.
 100% Offline & Privacy-First: No data collection, no analytics, no servers.
 
-Technologies Used
+**Technologies Used**
 Language: Kotlin
 UI Framework: Jetpack Compose (Declarative UI)
 IDE: Android Studio
